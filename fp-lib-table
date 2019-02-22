@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name feather_wing)(type KiCad)(uri ${KIPRJMOD}/feather_wing.pretty)(options "")(descr ""))
+  (lib (name SOIC-8_3.9x4.9mm_P1.27mm_HandSolder)(type KiCad)(uri ${KIPRJMOD}/SOIC-8_3.9x4.9mm_P1.27mm_HandSolder.pretty)(options "")(descr ""))
+  (lib (name BNC)(type KiCad)(uri ${KIPRJMOD}/BNC.pretty)(options "")(descr ""))
+  (lib (name OST_SCREW_TERM_3)(type KiCad)(uri ${KIPRJMOD}/OST_SCREW_TERM_3.pretty)(options "")(descr ""))
+  (lib (name KMR7_SWITCH)(type KiCad)(uri ${KIPRJMOD}/KMR7_SWITCH.pretty)(options "")(descr ""))
+)

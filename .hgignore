@@ -1,0 +1,4 @@
+syntax: glob
+*~
+*cache.lib
+*.tar.gz
