@@ -8,5 +8,5 @@ R1,R2       10k resistor, 0.1%          0603        Digikey   P10KDBCT-ND       
 R3          1k resistor, 1%             0603        Digikey   MCT0603-1.00K-CFCT-ND    1 
 R4          4.7k resistor, 5%           0603        Digikey   311-4.7KGRCT-ND          1 
 SW1,SW2     switch tactile SPST-NO      NA          Digikey   CKN10689CT-ND            2 
-U1,U2       LMP7721 op amp              8-SOIC      Digikey   CKN10689CT-ND            2 
+U1,U2       LMP7721 op amp              8-SOIC      Digikey   LMP7721MA/NOPB-ND        2 
 
