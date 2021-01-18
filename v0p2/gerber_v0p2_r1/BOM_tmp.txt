@@ -1,0 +1,10 @@
+
+Description                  Part           Package                  Part Number    Qty
+-----------------------      ----           -------                  -----------    ---
+1uF ceramic capacitor    ,   C1 C3     ,    0603                  ,  C15849     ,    2 
+0.1uF ceramic capacitor  ,   C2        ,    0603                  ,  C14663     ,    1 
+10k resistor 0.1%        ,   R1 R2 R3  ,    0603                  ,  C190321    ,    3 
+4.7k resistor 1%         ,   R4        ,    0603                  ,  C23162     ,    1 
+switch SPST-NO           ,   SW1 SW2   ,    SW-SMD-2_2.9x3.9x1.7  ,  C115357    ,    2 
+MCP6002T-I/SN opamp      ,   U1        ,    SOIC-8_3.9x4.9x1.27P  ,  C7377      ,    1 
+
