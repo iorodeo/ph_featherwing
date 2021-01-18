@@ -1,5 +1,4 @@
 (sym_lib_table
   (lib (name feather_wing)(type Legacy)(uri ${KIPRJMOD}/feather_wing.lib)(options "")(descr ""))
-  (lib (name LMP7721)(type Legacy)(uri ${KIPRJMOD}/LMP7721.lib)(options "")(descr ""))
   (lib (name screw_terminal_mod_01x03)(type Legacy)(uri ${KIPRJMOD}/screw_terminal_mod_01x03.lib)(options "")(descr ""))
 )

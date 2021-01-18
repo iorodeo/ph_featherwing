@@ -36,6 +36,8 @@ Wire Wire Line
 	3825 4900 3825 5000
 Wire Wire Line
 	3225 4900 3825 4900
+Text Notes 1000 7300 0    50   ~ 0
+Design based on "AN-1852 Designing With pH Electrodes" \nhttp://www.ti.com/lit/an/snoa529a/snoa529a.pdf
 NoConn ~ 2225 3700
 NoConn ~ 2225 3800
 NoConn ~ 2225 3900
